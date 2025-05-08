@@ -1,6 +1,6 @@
-
 gpu_burn-drv\.o
-
 compare\.ptx
-
 gpu_burn
+SessionX.vim
+flags_to_debug_ycm_
+*.sw*
